@@ -1,0 +1,16 @@
+C:\Dev\Entorno_servidor\tutoTodo\bin\Debug\net5.0\tutoTodo.exe
+C:\Dev\Entorno_servidor\tutoTodo\bin\Debug\net5.0\tutoTodo.deps.json
+C:\Dev\Entorno_servidor\tutoTodo\bin\Debug\net5.0\tutoTodo.runtimeconfig.json
+C:\Dev\Entorno_servidor\tutoTodo\bin\Debug\net5.0\tutoTodo.runtimeconfig.dev.json
+C:\Dev\Entorno_servidor\tutoTodo\bin\Debug\net5.0\tutoTodo.dll
+C:\Dev\Entorno_servidor\tutoTodo\bin\Debug\net5.0\ref\tutoTodo.dll
+C:\Dev\Entorno_servidor\tutoTodo\bin\Debug\net5.0\tutoTodo.pdb
+C:\Dev\Entorno_servidor\tutoTodo\obj\Debug\net5.0\tutoTodo.csproj.AssemblyReference.cache
+C:\Dev\Entorno_servidor\tutoTodo\obj\Debug\net5.0\tutoTodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Entorno_servidor\tutoTodo\obj\Debug\net5.0\tutoTodo.AssemblyInfoInputs.cache
+C:\Dev\Entorno_servidor\tutoTodo\obj\Debug\net5.0\tutoTodo.AssemblyInfo.cs
+C:\Dev\Entorno_servidor\tutoTodo\obj\Debug\net5.0\tutoTodo.csproj.CoreCompileInputs.cache
+C:\Dev\Entorno_servidor\tutoTodo\obj\Debug\net5.0\tutoTodo.dll
+C:\Dev\Entorno_servidor\tutoTodo\obj\Debug\net5.0\ref\tutoTodo.dll
+C:\Dev\Entorno_servidor\tutoTodo\obj\Debug\net5.0\tutoTodo.pdb
+C:\Dev\Entorno_servidor\tutoTodo\obj\Debug\net5.0\tutoTodo.genruntimeconfig.cache

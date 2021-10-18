@@ -1,12 +1,9 @@
 ﻿using System;
 
-namespace tutoTodo
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
-    }
-}
+
+   
+        
+ var sistema = new Sistema();
+ var vista = new Vista();
+ var controlador = new Controlador(sistema, vista);
+      
